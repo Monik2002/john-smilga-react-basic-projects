@@ -2,7 +2,7 @@
 
 ## Projects Included
 
-1. ### [Birthday Reminder](#01-birthday-reminder): A simple app that shows a list of upcoming birthdays.
+1. ### [Birthday Reminder](#01-Birthday-reminder): A simple app that shows a list of upcoming birthdays.
 
 2. **Tours**: An app for displaying and hiding info on various tours.
 

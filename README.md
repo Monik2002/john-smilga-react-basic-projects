@@ -11,6 +11,10 @@ This repository contains a collection of simple React projects created for pract
 07. <a href="07-Slider" style="text-decoration: none; font-weight: bold;">Slider</a> - An app for cycling through different images.
 08. <a href="08-lorem-ipsum" style="text-decoration: none; font-weight: bold;">Lorem Ipsum Generator</a> - Generates random "Lorem Ipsum" text.
 09. <a href="09-Color-generator" style="text-decoration: none; font-weight: bold;">Color Generator</a> - A tool for generating random colors and their shades.
+10. <a href="10-Grocery-bud" style="text-decoration: none; font-weight: bold;">Color Generator</a> - A tool for managing grocery lists.
+11. <a href="10-Navbar" style="text-decoration: none; font-weight: bold;">Color Generator</a> - A simple navigation bar component.
+12. <a href="11-Sidebar-Model" style="text-decoration: none; font-weight: bold;">Color Generator</a> - A sidebar model component.
+13. <a href="12-stripe-submenus" style="text-decoration: none; font-weight: bold;">Color Generator</a> - An implementation of stripe submenus.
 
 Each project has its own directory and can be accessed by clicking on the project name above.
 

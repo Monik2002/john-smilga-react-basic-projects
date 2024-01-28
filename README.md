@@ -12,10 +12,10 @@ This repository contains a collection of simple React projects created for pract
 08. <a href="08-lorem-ipsum" style="text-decoration: none; font-weight: bold;">Lorem Ipsum Generator</a> - Generates random "Lorem Ipsum" text.
 09. <a href="09-Color-generator" style="text-decoration: none; font-weight: bold;">Color Generator</a> - A tool for generating random colors and their shades.
 10. <a href="10-Grocery-bud" style="text-decoration: none; font-weight: bold;">Grocery-bud</a> - A tool for managing grocery lists.
-11. <a href="10-Navbar" style="text-decoration: none; font-weight: bold;">Navbar</a> - A simple navigation bar component.
-12. <a href="11-Sidebar-Model" style="text-decoration: none; font-weight: bold;">Sidebar-Model</a> - A sidebar model component.
-13. <a href="12-stripe-submenus" style="text-decoration: none; font-weight: bold;">stripe-submenus</a> - An implementation of stripe submenus.
-14. <a href="13-Cart" style="text-decoration: none; font-weight: bold;">Cart</a> - A shopping cart implementation.
+11. <a href="11-Navbar" style="text-decoration: none; font-weight: bold;">Navbar</a> - A simple navigation bar component.
+12. <a href="12-Sidebar-Model" style="text-decoration: none; font-weight: bold;">Sidebar-Model</a> - A sidebar model component.
+13. <a href="13-stripe-submenus" style="text-decoration: none; font-weight: bold;">stripe-submenus</a> - An implementation of stripe submenus.
+14. <a href="14-Cart" style="text-decoration: none; font-weight: bold;">Cart</a> - A shopping cart implementation.
 
 Each project has its own directory and can be accessed by clicking on the project name above.
 

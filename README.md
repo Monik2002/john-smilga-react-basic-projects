@@ -15,6 +15,7 @@ This repository contains a collection of simple React projects created for pract
 11. <a href="10-Navbar" style="text-decoration: none; font-weight: bold;">Color Generator</a> - A simple navigation bar component.
 12. <a href="11-Sidebar-Model" style="text-decoration: none; font-weight: bold;">Color Generator</a> - A sidebar model component.
 13. <a href="12-stripe-submenus" style="text-decoration: none; font-weight: bold;">Color Generator</a> - An implementation of stripe submenus.
+14. <a href="13-Cart" style="text-decoration: none; font-weight: bold;">Cart</a> - A shopping cart implementation.
 
 Each project has its own directory and can be accessed by clicking on the project name above.
 
